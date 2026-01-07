@@ -1,83 +1,75 @@
 # 👋 Salom, Men Jamshidbek Shodibekov!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0092ff&height=200&section=header&text=Python%20Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Jamshidbek%20Shodibekov&fontSize=60&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Python+Backend+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=500&lines=Software+Engineer;Backend+Specialist+(Python);FastAPI+%26+Django+Expert;Microservices+Architect" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 Men haqimda
-- 🌍 **Manzil:** Toshkent, O'zbekiston
-- 🚀 **Hozirgi maqsad:** Murakkab tizimlar arxitekturasi va yuqori yuklamali (High-load) backend tizimlar yaratish.
-- ⚡ **Qiziqishlar:** Microservices, AI integratsiyasi va Cloud computing.
-- 💬 **Muloqot:** Loyihalar yoki hamkorlik uchun hamisha ochiqman!
+### 👨‍💻 Professional Portfolio
+Hozirda **Panda Tech** kompaniyasida **Python Developer** sifatida faoliyat yuritaman. Murakkab biznes mantiqlar, yuqori yuklamali tizimlar va API arxitekturalari ustida ishlayman.
+
+* 🔭 **Hozirda:** Backend ekotizimlarini optimallashtirish va Microservices ustida ishlayapman.
+* 🌱 **O'rganmoqda:** Tizim dizayni (System Design) va Go (Golang) samaradorligi.
+* 💬 **Tajriba:** Django, FastAPI, Celery, Redis va Docker.
+* 📫 **Aloqa:** [LinkedIn Profilim](https://www.linkedin.com/in/jamshidbek-shodibekov-python/)
 
 ---
 
-### 🛠 Texnologiyalar va Instrumentlar
+### 🛠 Texnologiyalar Steki
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,redis,celery,aws,git,linux,mongodb,nginx" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,redis,celery,linux,nginx,git,github,aws,mongodb,mysql,postman" />
 </p>
 
 ---
 
-### 💼 Ish Tajribasi (Experience)
+### 💼 Tajriba (Experience)
 
-| Kompaniya | Lavozim | Muddat |
+| Kompaniya | Lavozim | Texnologiyalar |
 | :--- | :--- | :--- |
-| **Panda Tech** | Senior Python Developer | 2023 - Hozirgi vaqt |
-| **Mohirdev** | Python Instructor / Dev | 2022 - 2023 |
-| **Freelance** | Full Stack Developer | 2021 - 2022 |
+| **Panda Tech** | Python Developer | FastAPI, PostgreSQL, Redis, Docker |
+| **Mohirdev** | Python Mentor / Developer | Django, DRF, Telegram Bots |
+| **Freelance Projects** | Full-stack Developer | Python, JS, API Integration |
 
 ---
 
-### 📊 Mening Statistika va Grafiklarim
+### 📊 GitHub Analitika & Statistika
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jamshidbek-shodibekov&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshidbek-shodibekov&layout=compact&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jamshidbekpy&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshidbekpy&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshidbek-shodibekov&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshidbekpy&theme=radical&hide_border=true" />
 </p>
 
-#### ⌛ WakaTime Faolligi
+#### ⌛ WakaTime Faollik Grafigi
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamshidbek-shodibekov&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jamshidbekpy&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📂 Tanlangan Loyihalar (Portfolio)
-
+### 📌 Tanlangan Repozitoriyalar
 <div align="center">
-  
-  <a href="https://github.com/jamshidbek-shodibekov/PROJE_NOMI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamshidbek-shodibekov&repo=LOYIHA_NOMI&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/jamshidbek-shodibekov/PROJE_NOMI_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamshidbek-shodibekov&repo=LOYIHA_NOMI_2&theme=tokyonight" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshidbekpy&repo=django-projects&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshidbekpy&repo=fastapi-microservices&theme=radical" />
 </div>
 
 ---
 
-### 🌐 Bog'lanish uchun
+### 🤝 Men bilan bog'laning
 <p align="left">
-<a href="https://linkedin.com/in/jamshidbek-shodibekov-python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamshidbek-shodibekov" height="30" width="40" /></a>
-<a href="https://t.me/USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
-<a href="mailto:shodibekov@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/jamshidbek-shodibekov-python" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/Jamshidbek_Python" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:shodibekov.j@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jamshidbek-shodibekov/jamshidbek-shodibekov/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Jamshidbekpy/Jamshidbekpy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
