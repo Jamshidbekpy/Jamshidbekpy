@@ -39,9 +39,9 @@
 </p>
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamshidbekpy&show_icons=true&theme=dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshidbekpy)
 
 <p align="center">
 <a href="https://github.com/jamshidbekpy">
