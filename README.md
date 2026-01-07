@@ -45,9 +45,13 @@
 
 ![WakaTime](https://wakatime.com/badge/user/Jamshidbekpy.svg)
 
+<img src="https://skillicons.dev/icons?i=go,linux,docker" />
+
 <p align="center">
 <a href="https://github.com/jamshidbekpy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamshidbekpy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamshidbekpy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
