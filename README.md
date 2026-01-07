@@ -2,7 +2,7 @@
   <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
 </p>
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Python.</p>
-<img align="right" src="https://thumbs.dreamstime.com/b/python-code-language-sign-python-code-language-sign-magnifying-glass-programming-coding-developing-concept-wireframe-low-171672441.jpg" width="300" height="150">
+<img align="right" src="https://thumbs.dreamstime.com/b/python-code-language-sign-python-code-language-sign-magnifying-glass-programming-coding-developing-concept-wireframe-low-171672441.jpg" width="500" height="500">
 
 
 <ul>
