@@ -45,7 +45,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshidbekpy)
 
-![WakaTime](https://wakatime.com/badge/user/Jamshidbekpy.svg)
+![WakaTime](https://wakatime.com/badge/user/Jamshidbekpy)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jamshidbekpy&theme=algolia&layout=compact&langs_count=8" width="450" />
 
 <img src="https://skillicons.dev/icons?i=go,linux,docker" />
