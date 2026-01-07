@@ -8,12 +8,12 @@
 <ul>
   <li>👋 Hi, I'm Jamshidbek</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>💼 I'm a Backend Engineer</li>
+  <li>💼 I'm a Backend Developer</li>
 </ul>
 
 <br><br>
 
--💻 [My Leetcode](https://leetcode.com/Jamshidbekpy/) 
+-💻 [My Leetcode](https://leetcode.com/perfect_IQ/) 
 
 -📄 [My Resume](https://your-resume-link-here.com/)
 
@@ -40,8 +40,6 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamshidbekpy&theme=github_dark&utcOffset=5"><br>
 </p>
 </a>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamshidbekpy&show_icons=true&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshidbekpy)
 
