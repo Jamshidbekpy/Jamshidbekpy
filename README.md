@@ -3,6 +3,8 @@
 </p>
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Python.</p>
 <img align="right" src="https://www.shutterstock.com/image-vector/python-coding-language-sign-device-260nw-1387214531.jpg">
+
+
 <ul>
   <li>👋 Hi, I'm Jamshidbek</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
@@ -18,7 +20,7 @@
 -📫 How to contact me:
   * 📧 Email: 
   
-              your-email@example.com
+              jamshidbekdev04@gmail.com
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
