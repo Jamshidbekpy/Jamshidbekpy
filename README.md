@@ -47,7 +47,7 @@
 
 ![WakaTime](https://wakatime.com/badge/user/Jamshidbekpy)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jamshidbekpy&theme=algolia&layout=compact&langs_count=8" width="450" />
-
+[![wakatime](https://wakatime.com/badge/user/b8fa7b31-ca76-41c9-b66c-52ec093a80d4.svg)](https://wakatime.com/@Jamshidbekpy)
 <img src="https://skillicons.dev/icons?i=go,linux,docker" />
 
 <p align="center">
