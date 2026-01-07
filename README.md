@@ -10,12 +10,12 @@
 
 ---
 
-### 👨‍💻 Professional Portfolio
-Hozirda **Panda Tech** kompaniyasida **Python Developer** sifatida faoliyat yuritaman. Murakkab biznes mantiqlar, yuqori yuklamali tizimlar va API arxitekturalari ustida ishlayman.
+### 👨‍💻 Professional Faoliyat
+Hozirda **Panda Tech** kompaniyasida **Python Developer** sifatida murakkab backend tizimlar yaratish bilan shug'ullanaman.
 
-* 🔭 **Hozirda:** Backend ekotizimlarini optimallashtirish va Microservices ustida ishlayapman.
-* 🌱 **O'rganmoqda:** Tizim dizayni (System Design) va Go (Golang) samaradorligi.
-* 💬 **Tajriba:** Django, FastAPI, Celery, Redis va Docker.
+* 🔭 **Asosiy yo'nalish:** Backend arxitekturasi va API optimallashtirish.
+* ⚡ **Texnologiyalar:** Python, Django, FastAPI, PostgreSQL, Docker, Redis.
+* 💼 **Tajriba:** Panda Tech, Mohirdev, Freelance.
 * 📫 **Aloqa:** [LinkedIn Profilim](https://www.linkedin.com/in/jamshidbek-shodibekov-python/)
 
 ---
@@ -27,47 +27,24 @@ Hozirda **Panda Tech** kompaniyasida **Python Developer** sifatida faoliyat yuri
 
 ---
 
-### 💼 Tajriba (Experience)
-
-| Kompaniya | Lavozim | Texnologiyalar |
-| :--- | :--- | :--- |
-| **Panda Tech** | Python Developer | FastAPI, PostgreSQL, Redis, Docker |
-| **Mohirdev** | Python Mentor / Developer | Django, DRF, Telegram Bots |
-| **Freelance Projects** | Full-stack Developer | Python, JS, API Integration |
-
----
-
-### 📊 GitHub Analitika & Statistika
+### 📊 Mening GitHub Statistikam
+> **Eslatma:** Agar grafiklar ko'rinmasa, profilingiz sozlamalaridan "Public profile" ekanligini tekshiring.
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jamshidbekpy&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshidbekpy&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jamshidbekpy&show_icons=true&theme=visual_studio_code&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshidbekpy&layout=compact&theme=visual_studio_code" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshidbekpy&theme=radical&hide_border=true" />
-</p>
-
-#### ⌛ WakaTime Faollik Grafigi
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jamshidbekpy&layout=compact&theme=radical" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshidbekpy&theme=visual_studio_code" />
 </p>
 
 ---
 
-### 📌 Tanlangan Repozitoriyalar
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshidbekpy&repo=django-projects&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshidbekpy&repo=fastapi-microservices&theme=radical" />
-</div>
-
----
-
-### 🤝 Men bilan bog'laning
+### 🤝 Bog'lanish
 <p align="left">
 <a href="https://linkedin.com/in/jamshidbek-shodibekov-python" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/Jamshidbek_Python" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:shodibekov.j@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
