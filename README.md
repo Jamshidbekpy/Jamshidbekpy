@@ -8,22 +8,6 @@
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>💼 I'm a Backend Engineer</li>
 </ul>
-#### A little more about me
-```python
-class DefonicTrips():
-    
-  def __init__(self):
-    self.name = "Jaloliddin Mamatmusayev";
-    self.username = "Jaloliddin1006";
-    self.location = "Uzbekistan";
-    self.info = "Backend developer from Uzbekistan";
-    
-  def __str__(self):
-    return self.name
-    
-if __name__ == '__main__':
-    me = DefonicTrips()
-````
 
 <br><br>
 
