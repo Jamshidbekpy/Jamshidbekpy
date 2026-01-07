@@ -2,7 +2,7 @@
   <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
 </p>
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Python.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.licdn.com/dms/image/v2/D4E35AQHBCXAjwmBIlg/profile-framedphoto-shrink_800_800/B4EZtHFASJIQAg-/0/1766424053524?e=1768363200&v=beta&t=sz52Gn6sqhqm6mSt7XNeqfkWOIQfD-6wXWpoGtgf53s)">
 <ul>
   <li>👋 Hi, I'm Jamshidbek</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
