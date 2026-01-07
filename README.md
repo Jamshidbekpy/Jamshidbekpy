@@ -3,7 +3,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+👋;I'm+[Your+Name];Full+Stack+Developer+🚀;Open+Source+Enthusiast+💻;Problem+Solver+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+👋;I'm+[Jamshidbek];Python+Backend+Developer+🚀;Open+Source+Enthusiast+💻;Problem+Solver+🎯" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,20 +18,20 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jamshidbekpy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=FFFFFF" />
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshidbekpy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=FFFFFF" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=4F8CC9&ring=4F8CC9&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshidbekpy&theme=radical&hide_border=true&background=0D1117&stroke=4F8CC9&ring=4F8CC9&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&color=4F8CC9&line=4F8CC9&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshidbekpy&theme=react-dark&bg_color=0D1117&hide_border=true&color=4F8CC9&line=4F8CC9&point=FFFFFF" />
 </p>
 
 ---
@@ -40,22 +40,22 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp," />
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,express,nestjs,django,spring,flutter" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django," />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,azure,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,rabbitmq,docker" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,bash,grafana" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,bash,cursor,pycharm" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 <!-- Metrics using github-metrics.lecoq.io -->
 <p align="center">
-  <img width="90%" src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTashkent" />
+  <img width="90%" src="https://metrics.lecoq.io/Jamshidbekpy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTashkent" />
 </p>
 
 ---
@@ -72,15 +72,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jamshidbekpy&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
+
+<!-- <p align="center">
+  <a href="https://github.com/Jamshidbekpy/Jamshidbekpy-Structure">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=radical&bg_color=0D1117&title_color=4F8CC9&text_color=FFFFFF" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/REPO_2">
@@ -97,7 +97,7 @@
   </a>
 </p>
 
----
+--- -->
 
 ## 🎯 Recent Activity
 
@@ -116,7 +116,7 @@
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://t.me/yourprofile" target="_blank">
+  <a href="https://t.me/@perfect_IQ" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
