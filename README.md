@@ -9,12 +9,12 @@
   <li>💼 I'm a Backend Engineer</li>
 </ul>
 #### A little more about me
-```
-class Jamshidbek():
+```python
+class DefonicTrips():
     
   def __init__(self):
-    self.name = "Jamshidbek";
-    self.username = "Jamshidbekpy";
+    self.name = "Jaloliddin Mamatmusayev";
+    self.username = "Jaloliddin1006";
     self.location = "Uzbekistan";
     self.info = "Backend developer from Uzbekistan";
     
@@ -22,7 +22,7 @@ class Jamshidbek():
     return self.name
     
 if __name__ == '__main__':
-    me = Jamshidbek()
+    me = DefonicTrips()
 ````
 
 <br><br>
