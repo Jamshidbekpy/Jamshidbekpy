@@ -9,7 +9,7 @@
   <li>💼 I'm a Backend Engineer</li>
 </ul>
 #### A little more about me
-```python
+```
 class Jamshidbek():
     
   def __init__(self):
