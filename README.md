@@ -23,7 +23,7 @@ class Jamshidbek():
     
 if __name__ == '__main__':
     me = Jamshidbek()
-```
+````
 
 <br><br>
 
