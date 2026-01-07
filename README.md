@@ -41,6 +41,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME)
+
 <p align="center">
 <a href="https://github.com/jamshidbekpy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamshidbekpy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
