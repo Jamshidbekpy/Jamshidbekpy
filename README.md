@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://thumbs.dreamstime.com/b/python-code-language-sign-python-code-language-sign-magnifying-glass-programming-coding-developing-concept-wireframe-low-171672441.jpg" width="260"/>
+<img align="right" src="https://thumbs.dreamstime.com/b/python-code-language-sign-python-code-language-sign-magnifying-glass-programming-coding-developing-concept-wireframe-low-171672441.jpg" width="200"/>
 
 - 👋 Hi, I'm **Jamshidbek**
 - 💻 **Backend Developer (Python)**
