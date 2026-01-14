@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,redis,rabbitmq,postgres,mongodb,linux,docker,git,github,gitlab,html,css,cpp" />
 
 ### ⚙️ &nbsp;Tools
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,cursor,spyder,termius,warp" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,cursor,terminal,docker,github" />
 
 <p align="center">
 <a href="https://github.com/jamshidbekpy">
