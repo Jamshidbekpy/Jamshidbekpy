@@ -15,7 +15,7 @@
 
 -💻 [My Leetcode](https://leetcode.com/perfect_IQ/) 
 
--📄 [My Resume](https://your-resume-link-here.com/](https://www.linkedin.com/in/jamshidbek-shodibekov-python/))
+-📄 [My Resume](https://www.linkedin.com/in/jamshidbek-shodibekov-python/)
 
 -📫 How to contact me:
   * 📧 Email: 
