@@ -24,11 +24,27 @@
 
 ---
 
+## 🧑‍💼 Professional Experience
+
+<p align="center">
+  <a href="https://stat.uz/en/" target="_blank">
+    <img src="https://img.shields.io/badge/UZSTAT-Backend%20Developer-6F4EF2?style=for-the-badge" />
+  </a>
+</p>
+
+### Backend Developer — **UZSTAT**
+- 🛠️ **Python, Django, REST API, PostgreSQL**
+- 📊 Building and maintaining backend services for statistical data systems
+- ⚙️ Working with APIs, data processing, and scalable backend architecture
+- 📍 Uzbekistan
+
+---
+
 ## 🔗 Profiles & Links
 
-- 💻 **LeetCode**: [leetcode.com/perfect_IQ](https://leetcode.com/perfect_IQ/)
-- 📄 **Resume / LinkedIn**: [Jamshidbek Shodibekov](https://www.linkedin.com/in/jamshidbek-shodibekov-python/)
-- 📫 **Email**: `jamshidbekdev04@gmail.com`
+- 💻 **LeetCode**: https://leetcode.com/perfect_IQ/
+- 📄 **LinkedIn**: https://www.linkedin.com/in/jamshidbek-shodibekov-python/
+- 📫 **Email**: jamshidbekdev04@gmail.com
 
 ---
 
