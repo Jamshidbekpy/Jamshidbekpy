@@ -33,7 +33,7 @@
 </p>
 
 ### Backend Developer — **UIC GROUP**
-- 🛠️ **Python, Django, REST API, PostgreSQL**
+- 🛠️ **Python, Django, REST API, FastAPI, PostgreSQL**
 - 📊 Building and maintaining backend services for statistical data systems
 - ⚙️ Working with APIs, data processing, and scalable backend architecture
 - 📍 Uzbekistan
