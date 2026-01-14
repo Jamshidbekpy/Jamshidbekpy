@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://uic.group/" target="_blank">
-    <img src="https://img.shields.io/badge/UIC GROUP-Backend Developer-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/UIC GROUP-Backend Developer-blue?style=for-the-badge"/ style="text-align:center">
   </a>
 </p>
 
