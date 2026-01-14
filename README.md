@@ -33,7 +33,7 @@
 </p>
 
 ### 
-<img src="https://img.shields.io/badge/UIC-Company-4B0082?style=flat&logo=googlechrome&logoColor=white" height="22"/> 
+<img src="https://marketing.uz/brend-goda-2021/uz/uploads/works/covers/7b5c3babff88990120e4379fdecbb589.jpg" height="22"/> 
 Backend Developer — **UIC GROUP**
 
 - 🛠️ **Python, Django, REST API, FastAPI, PostgreSQL**
