@@ -43,7 +43,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamshidbekpy)
 
-<img src="https://skillicons.dev/icons?i=go,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb,linux,docker" />
 
 <p align="center">
 <a href="https://github.com/jamshidbekpy">
