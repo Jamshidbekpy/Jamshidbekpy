@@ -96,7 +96,7 @@
 ## ⏱️ WakaTime Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamshidbekpy&theme=algolia&layout=compact" />
+  <a href="https://wakatime.com/@b8fa7b31-ca76-41c9-b66c-52ec093a80d4"><img src="https://wakatime.com/badge/user/b8fa7b31-ca76-41c9-b66c-52ec093a80d4.svg" alt="Total time coded since Dec 20 2025" /></a>
 </p>
 
 
