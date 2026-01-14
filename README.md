@@ -93,9 +93,15 @@
 
 ---
 
-## ⏱️ WakaTime Statistics
+## 📊 GitHub & Coding Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamshidbekpy" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamshidbekpy&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamshidbekpy&theme=algolia&layout=compact" />
+</p>
 
 
 
