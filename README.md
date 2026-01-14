@@ -32,7 +32,9 @@
   </a>
 </p>
 
-### Backend Developer — **UIC GROUP**
+### 
+<img src="https://img.shields.io/badge/UIC-Company-4B0082?style=flat&logo=googlechrome&logoColor=white" height="22"/> 
+Backend Developer — **UIC GROUP**
 - 🛠️ **Python, Django, REST API, FastAPI, PostgreSQL**
 - 📊 Building and maintaining backend services for statistical data systems
 - ⚙️ Working with APIs, data processing, and scalable backend architecture
