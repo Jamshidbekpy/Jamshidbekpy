@@ -95,8 +95,8 @@
 
 ## ⏱️ WakaTime Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jamshidbekpy&theme=algolia&layout=compact" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamshidbekpy" />
+
+
 
 ⭐ **If you like my profile, don’t forget to follow!**
