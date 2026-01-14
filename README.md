@@ -28,7 +28,8 @@
 
 <p align="center">
   <a href="https://uic.group/" target="_blank">
-    <img src="https://marketing.uz/brend-goda-2021/uz/brand/233.htm" />
+    <img src="https://img.shields.io/badge/UIC GROUP-Backend Developer-green?style=for-the-badge
+" />
   </a>
 </p>
 
