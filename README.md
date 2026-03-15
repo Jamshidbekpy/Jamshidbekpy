@@ -28,7 +28,7 @@
 
 <p align="center">
   <img 
-    src="https://ictacademy.uz/_next/image?url=%2Flogolight.png&w=256&q=75", style="height:28px"
+    src="https://ictacademy.uz/_next/image?url=%2Flogolight.png&w=256&q=75", style="height:30px"
   >
   <a href="https://ictacademy.uz/" target="_blank">
     <img src="https://img.shields.io/badge/ICT Academy-Backend Developer-indigo?style=for-the-badge"/ style="text-align:center">
