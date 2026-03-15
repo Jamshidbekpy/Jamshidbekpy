@@ -30,7 +30,7 @@
  <div style="height:28px; width:28px; overflow:hidden; display:inline-block; text-align:center">
   <img 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnJ404AfK46QcPX1XBi6LrPepJo7o0SXZ8g&s"
-    style="height:28px; margin-top:-4px; margin-left:-4px;"
+    style="height:28px; margin-top:-2px; margin-left:-2px;"
   >
 </div>
   <a href="https://ictacademy.uz/" target="_blank">
