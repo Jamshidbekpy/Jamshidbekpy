@@ -27,7 +27,12 @@
 ## 🧑‍💼 Professional Experience
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnJ404AfK46QcPX1XBi6LrPepJo7o0SXZ8g&s" height="28"/> 
+ <div style="height:28px; width:28px; overflow:hidden; display:inline-block;">
+  <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnJ404AfK46QcPX1XBi6LrPepJo7o0SXZ8g&s"
+    style="height:36px; margin-top:-4px; margin-left:-4px;"
+  >
+</div>
   <a href="https://ictacademy.uz/" target="_blank">
     <img src="https://img.shields.io/badge/ICT Academy-Backend Developer-indigo?style=for-the-badge"/ style="text-align:center">
   </a>
