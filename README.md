@@ -29,8 +29,7 @@
 <p align="center">
  <div style="height:28px; width:28px; overflow:hidden; display:inline-block; text-align:center">
   <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnJ404AfK46QcPX1XBi6LrPepJo7o0SXZ8g&s"
-    style="height:28px; margin-top:-10px; margin-left:-10px;"
+    src="https://ictacademy.uz/_next/image?url=%2Flogolight.png&w=256&q=75"
   >
 </div>
   <a href="https://ictacademy.uz/" target="_blank">
