@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://marketing.uz/brend-goda-2021/uz/uploads/works/covers/7b5c3babff88990120e4379fdecbb589.jpg" height="28"/> 
-  <a href="https://uic.group/" target="_blank">
+  <a href="https://ictacademy.uz/" target="_blank">
     <img src="https://img.shields.io/badge/ICT Academy-Backend Developer-indigo?style=for-the-badge"/ style="text-align:center">
   </a>
 </p>
