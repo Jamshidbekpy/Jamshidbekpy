@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### Backend Developer — **UIC GROUP**
+### Backend Developer — **ICT Academy**
 - 🛠️ **Python, Django, REST API, FastAPI, PostgreSQL**
 - 📊 Building and maintaining backend services for statistical data systems
 - ⚙️ Working with APIs, data processing, and scalable backend architecture
