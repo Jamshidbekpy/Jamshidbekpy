@@ -27,7 +27,7 @@
 ## 🧑‍💼 Professional Experience
 
 <p align="center">
- <div style="height:28px; width:28px; overflow:hidden; display:inline-block;">
+ <div style="height:28px; width:28px; overflow:hidden; display:inline-block; text-align:center">
   <img 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnJ404AfK46QcPX1XBi6LrPepJo7o0SXZ8g&s"
     style="height:36px; margin-top:-4px; margin-left:-4px;"
